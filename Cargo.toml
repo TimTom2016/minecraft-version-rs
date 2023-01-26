@@ -2,6 +2,13 @@
 name = "minecraft-version"
 version = "0.1.0"
 edition = "2021"
+description = "Exhaustive enum of Minecraft versions"
+license = "Apache-2.0 OR MIT"
+authors = ["Kisaragi Marine <kisaragi.effective@gmail.com>"]
+keywords = ["minecraft"]
+categories = ["parsing"]
+repository = "https://github.com/KisaragiEffective/minecraft-version-rs"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
